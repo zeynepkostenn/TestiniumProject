@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6de289e7-1025-40c1-8c0a-278f580a6ac7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/tests/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/tests/LoginTest.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1XlJfcZzFOsbbWSibSgChhMntkD" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zeyne\IdeaProjects\testuygulama\src\resource" />
+      <recent name="C:\Users\zeyne\IdeaProjects\testuygulama\src\test\resource" />
+      <recent name="C:\Users\zeyne\IdeaProjects\testuygulama\src\test" />
+      <recent name="C:\Users\zeyne\IdeaProjects\testuygulama\driver" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.HomeTest (1)">
+    <configuration name="BasketTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ZeynepKosten" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.pages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.test.tests.BasketTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestUygulama.UrunArama" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ZeynepKosten" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.pages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test" />
+      <option name="MAIN_CLASS_NAME" value="com.test.TestUygulama" />
+      <option name="METHOD_NAME" value="UrunArama" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasketTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ZeynepKosten" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.pages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test" />
+      <option name="MAIN_CLASS_NAME" value="com.test.tests.BasketTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="test-uygulama" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.test.tests.HomeTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ZeynepKosten" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.pages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test" />
+      <option name="MAIN_CLASS_NAME" value="com.test.tests.HomeTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.HomeTest (1)" />
+        <item itemvalue="TestNG.HomeTest" />
+        <item itemvalue="TestNG.BasketTest" />
+        <item itemvalue="JUnit.BasketTest" />
+        <item itemvalue="JUnit.TestUygulama.UrunArama" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6de289e7-1025-40c1-8c0a-278f580a6ac7" name="Default Changelist" comment="" />
+      <created>1581614851367</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581614851367</updated>
+      <workItem from="1581614853878" duration="11389000" />
+      <workItem from="1581665163562" duration="12562000" />
+      <workItem from="1581692983478" duration="7329000" />
+      <workItem from="1581707175275" duration="9814000" />
+      <workItem from="1581749388199" duration="14270000" />
+      <workItem from="1581771200783" duration="3972000" />
+      <workItem from="1581782007272" duration="23996000" />
+      <workItem from="1581835955889" duration="4812000" />
+      <workItem from="1581841580661" duration="235000" />
+      <workItem from="1581841845236" duration="83000" />
+      <workItem from="1581841990947" duration="304000" />
+      <workItem from="1581843249685" duration="808000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
